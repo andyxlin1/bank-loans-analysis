@@ -1,3 +1,4 @@
+# Solutions are in image/nb/p4.ipynb
 # P4 (8% of grade): Spark, Loan Applications
 
 ## Overview
